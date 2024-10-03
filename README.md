@@ -74,4 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 - **Name**: [Deepak Jha]
 - **Email**: [dkjhaonly1@gmail.com]
-- **GitHub**: [your-github-profile-link](https://github.com/dkjhaonly1/)
+- **GitHub**: [My Profile](https://github.com/dkjhaonly1/)
